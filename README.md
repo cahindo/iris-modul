@@ -47,4 +47,4 @@ balik();
 
 <br>
 
-IRIS Team 2021 | 2/4/2021
+© IRIS Team 2021 | 2/4/2021
