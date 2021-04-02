@@ -43,6 +43,7 @@ balik();
 ### Tugas Magang
 1. Buat Laporan progress dan jelasnkan kendala dalam pembelajaran kalian secara singkat dan jelas. 
 2. Laporan ditulis secara kreatif dalam bentuk README.md dalam repository `magang-iris/pointer` github kalian
+3. Diku
 
 
 <br>
