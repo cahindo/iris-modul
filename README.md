@@ -35,3 +35,16 @@ balik();
 // output 6,5,4,3,2,1
 ````
 3. Cari soal tentang penerapan pointer dan kerjakan !
+
+
+<br>
+<br>
+
+### Tugas Magang
+1. Buat Laporan progress dan jelasnkan kendala dalam pembelajaran kalian secara singkat dan jelas. 
+2. Laporan ditulis secara kreatif dalam bentuk README.md dalam repository `magang-iris/pointer` github kalian
+
+
+<br>
+
+IRIS Team 2021 | 2/4/2021
