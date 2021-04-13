@@ -3,16 +3,21 @@
 ### Apa itu Pointer ?
 Pointer adalah suatu variabel penunjuk, berisi nilai yang menunjuk alamat suatu lokasi memori tertentu. Jadi pointer tidak berisi nilai data, melainkan berisi suatu alamat memori. Lokasi memori tersebut bisa diwakili sebuah variabel atau juga berupa alamat memori secara langsung.
 <br>
-
+.....
+.....
+<br>
 Untuk mengetahui pointer lebih lanjut, banyak resource di internet yang membahas hal tersebut. Berikut beberapa rekomendasi untuk dipelajari :
 - https://www.cplusplus.com/doc/tutorial/pointers/
 - https://www.petanikode.com/c-pointer/
 - https://bundet.com/d/995-pengertian-pointer-dalam-c
 - https://github.com/AlproITS/DasarPemrograman/wiki/Modul-4:-Pointer-dan-Struct#deklarasi-variabel-pointer
 - https://www.programiz.com/c-programming/c-pointers
+- 
 - ...
 - ..
 <br>
+Git & GitHub :
+- https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
 
 ### Latihan
 
@@ -41,10 +46,14 @@ balik();
 <br>
 
 ### Tugas Magang
-1. Buat Laporan progress dan jelasnkan kendala dalam pembelajaran kalian secara singkat dan jelas. 
-2. Laporan ditulis secara kreatif dalam bentuk README.md dalam repository `magang-iris/pointer` github kalian
-3. Diku
+1. Buat Laporan rangkuman pembelajaran kalian tentang pointer secara singkat dan jelas.
+2. Beri contoh soal/penerapan pointer pada laporan tesebut. 
+3. Laporan ditulis secara kreatif dalam bentuk README.md dalam repository github kalian (seperti repo ini).
+4. Dikumpulkan hari Minggu saat pertemuan magang.
+5. 
+<br>
 
+note : `jika ada yg dibingunkan bisa tanya ke mas2 nya di line / grup.`
 
 <br>
 
