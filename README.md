@@ -72,14 +72,11 @@ Untuk memahami lebih lanjut bisa mencari refernsi di internet, berikut beberapa 
 
 ### Latihan
 
-1.
-Write a class having two private variables and one member function which will return the area of the rectangle.
+1. Write a class having two private variables and one member function which will return the area of the rectangle.
 
-2.
-Write a program and input two integers in main and pass them to default constructor of the class. Show the result of the additon of two numbers.
+2. Write a program and input two integers in main and pass them to default constructor of the class. Show the result of the additon of two numbers.
 
-3.
-Write a c++ class called 'student' with
+3. Write a c++ class called 'student' with
 ```
 Data members:
 name(char type),
@@ -87,21 +84,17 @@ marks1,marks2 (integer type)
 ```
 The program asks the user to enter name and marks. Then calc_media() calculates the media note and disp() display name and total media mark on screen in different lines.
 
-4.
-Perform addition operation on complex data using class and object. The program should ask for real and imaginary part of two complex numbers, and display the real and imaginary parts of their sum.
+4. Perform addition operation on complex data using class and object. The program should ask for real and imaginary part of two complex numbers, and display the real and imaginary parts of their sum.
 
 ### Tugas Magang
-Kerjakan soal [Latihan](###latihan-1) DAN soal dibawah ini, dan letakan di github dengan rapi. Pahami codingan kalian, jika diperlukan beri komen dengan jelas...
+Kerjakan soal [Latihan](#latihan-1) DAN soal dibawah ini, dan letakan di github dengan rapi. Pahami codingan kalian, jika diperlukan beri komen dengan jelas...
 <br>
 
-1.
-Write a program that defines a shape class with a constructor that gives value to width and height. The define two sub-classes triangle and rectangle, that calculate the area of the shape area (). In the main, define two variables a triangle and a rectangle and then call the area() function in this two varibles.
+1. Write a program that defines a shape class with a constructor that gives value to width and height. The define two sub-classes triangle and rectangle, that calculate the area of the shape area (). In the main, define two variables a triangle and a rectangle and then call the area() function in this two varibles.
 
-2.
-Write a program with a mother class and an inherited daugther class.Both of them should have a method void display ()that prints a message (different for mother and daugther).In the main define a daughter and call the display() method on it.
+2. Write a program with a mother class and an inherited daugther class.Both of them should have a method void display ()that prints a message (different for mother and daugther).In the main define a daughter and call the display() method on it.
 
-3.
-Write a probram with a mother class animal. Inside it define a name and an age variables, and set_value() function.Then create two bases variables Zebra and Dolphin which write a message telling the age, the name and giving some extra information (e.g. place of origin).
+3. Write a probram with a mother class animal. Inside it define a name and an age variables, and set_value() function.Then create two bases variables Zebra and Dolphin which write a message telling the age, the name and giving some extra information (e.g. place of origin).
 
 
 <br>
