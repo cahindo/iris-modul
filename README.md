@@ -4,8 +4,7 @@
 ### Apa itu Pointer ?
 Pointer adalah suatu variabel penunjuk, berisi nilai yang menunjuk alamat suatu lokasi memori tertentu. Jadi pointer tidak berisi nilai data, melainkan berisi suatu alamat memori. Lokasi memori tersebut bisa diwakili sebuah variabel atau juga berupa alamat memori secara langsung.
 <br>
-.....
-.....
+..........
 <br>
 Untuk mengetahui pointer lebih lanjut, banyak resource di internet yang membahas hal tersebut. Berikut beberapa rekomendasi untuk dipelajari :
 - https://www.cplusplus.com/doc/tutorial/pointers/
@@ -13,7 +12,6 @@ Untuk mengetahui pointer lebih lanjut, banyak resource di internet yang membahas
 - https://bundet.com/d/995-pengertian-pointer-dalam-c
 - https://github.com/AlproITS/DasarPemrograman/wiki/Modul-4:-Pointer-dan-Struct#deklarasi-variabel-pointer
 - https://www.programiz.com/c-programming/c-pointers
-- 
 - ...
 - ..
 <br>
@@ -82,7 +80,7 @@ Data members:
 name(char type),
 marks1,marks2 (integer type)
 ```
-The program asks the user to enter name and marks. Then calc_media() calculates the media note and disp() display name and total media mark on screen in different lines.
+  The program asks the user to enter name and marks. Then calc_media() calculates the media note and disp() display name and total media mark on screen in different lines.
 
 4. Perform addition operation on complex data using class and object. The program should ask for real and imaginary part of two complex numbers, and display the real and imaginary parts of their sum.
 
